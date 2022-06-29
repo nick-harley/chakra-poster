@@ -3,6 +3,7 @@
 ## Common Hierarchical Absract Knowledge Representation for Anything
 
 <https://nick-harley.github.io/chakra-poster/>
+
 <https://github.com/nick-harley/chakra-poster>
 
 #### Abstract 
