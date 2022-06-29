@@ -1,6 +1,8 @@
-# CHAKRA: Common Hierarchical Absract Knowledge Representation for Anything
+# CHAKRA
 
-<https://nick-harley.github.io/chakra-poster/>
+## Common Hierarchical Absract Knowledge Representation for Anything
+
+<https://github.com/nick-harley/chakra-poster>
 
 #### Abstract 
 
